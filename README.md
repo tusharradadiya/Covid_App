@@ -1,16 +1,9 @@
-# covid_app
+<p float="center>
+          
+<img src="https://user-images.githubusercontent.com/113609040/210040596-19a974e5-a1c9-4da7-a54e-a68404ed17e0.png" width=22% height=35%>
 
-A new Flutter project.
+<img src="https://user-images.githubusercontent.com/113609040/217171571-32ae2d77-f5a4-406b-a433-5e7d3128bd21.png" width=30% height=40%>
 
-## Getting Started
+<img src="https://user-images.githubusercontent.com/113609040/217171584-13c595ca-1c08-452d-81d8-9c7ae4437e75.png" width=30% height=40%>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</p>
